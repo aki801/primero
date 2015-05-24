@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 name= raw_input ('Introduce tu nombre completo: ')
 nl=len(name)
 p=name.split()
